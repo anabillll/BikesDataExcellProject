@@ -1,2 +1,5 @@
 # BikesDataExcellProject
-In this project I did data cleaning, analyzing and some visualization in Excell for a bike dataset that i got from Kaggle.com, you can find the original excell file before and after i worked on it.
+In this project I:
+-	Collected and cleaned data from a bike dataset from Kaggle.com using Excel
+-	Analyzed data using statistical and analytical methods to identify trends and patterns
+-	Created visualizations in Excel to communicate findings and make data-driven recommendations. 
